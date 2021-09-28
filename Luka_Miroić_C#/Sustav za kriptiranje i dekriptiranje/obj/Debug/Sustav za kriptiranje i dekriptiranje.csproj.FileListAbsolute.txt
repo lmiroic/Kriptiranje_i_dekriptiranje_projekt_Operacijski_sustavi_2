@@ -1,0 +1,20 @@
+C:\Users\Miroic\source\repos\Sustav za kriptiranje i dekriptiranje\Sustav za kriptiranje i dekriptiranje\obj\Debug\Sustav za kriptiranje i dekriptiranje.csprojAssemblyReference.cache
+C:\Users\Miroic\source\repos\Sustav za kriptiranje i dekriptiranje\Sustav za kriptiranje i dekriptiranje\obj\Debug\Sustav_za_kriptiranje_i_dekriptiranje.Properties.Resources.resources
+C:\Users\Miroic\source\repos\Sustav za kriptiranje i dekriptiranje\Sustav za kriptiranje i dekriptiranje\obj\Debug\Sustav za kriptiranje i dekriptiranje.csproj.GenerateResource.cache
+C:\Users\Miroic\source\repos\Sustav za kriptiranje i dekriptiranje\Sustav za kriptiranje i dekriptiranje\obj\Debug\Sustav za kriptiranje i dekriptiranje.csproj.CoreCompileInputs.cache
+C:\Users\Miroic\source\repos\Sustav za kriptiranje i dekriptiranje\Sustav za kriptiranje i dekriptiranje\bin\Debug\Sustav za kriptiranje i dekriptiranje.exe.config
+C:\Users\Miroic\source\repos\Sustav za kriptiranje i dekriptiranje\Sustav za kriptiranje i dekriptiranje\bin\Debug\Sustav za kriptiranje i dekriptiranje.exe
+C:\Users\Miroic\source\repos\Sustav za kriptiranje i dekriptiranje\Sustav za kriptiranje i dekriptiranje\bin\Debug\Sustav za kriptiranje i dekriptiranje.pdb
+C:\Users\Miroic\source\repos\Sustav za kriptiranje i dekriptiranje\Sustav za kriptiranje i dekriptiranje\obj\Debug\Sustav za kriptiranje i dekriptiranje.exe
+C:\Users\Miroic\source\repos\Sustav za kriptiranje i dekriptiranje\Sustav za kriptiranje i dekriptiranje\obj\Debug\Sustav za kriptiranje i dekriptiranje.pdb
+C:\Users\Miroic\source\repos\Sustav za kriptiranje i dekriptiranje\Sustav za kriptiranje i dekriptiranje\obj\Debug\Sustav_za_kriptiranje_i_dekriptiranje.FormKriptiranje.resources
+C:\Users\Miroic\Desktop\Luka Miroić C#\Sustav za kriptiranje i dekriptiranje\bin\Debug\Sustav za kriptiranje i dekriptiranje.exe.config
+C:\Users\Miroic\Desktop\Luka Miroić C#\Sustav za kriptiranje i dekriptiranje\bin\Debug\Sustav za kriptiranje i dekriptiranje.exe
+C:\Users\Miroic\Desktop\Luka Miroić C#\Sustav za kriptiranje i dekriptiranje\bin\Debug\Sustav za kriptiranje i dekriptiranje.pdb
+C:\Users\Miroic\Desktop\Luka Miroić C#\Sustav za kriptiranje i dekriptiranje\obj\Debug\Sustav za kriptiranje i dekriptiranje.csprojAssemblyReference.cache
+C:\Users\Miroic\Desktop\Luka Miroić C#\Sustav za kriptiranje i dekriptiranje\obj\Debug\Sustav_za_kriptiranje_i_dekriptiranje.FormKriptiranje.resources
+C:\Users\Miroic\Desktop\Luka Miroić C#\Sustav za kriptiranje i dekriptiranje\obj\Debug\Sustav_za_kriptiranje_i_dekriptiranje.Properties.Resources.resources
+C:\Users\Miroic\Desktop\Luka Miroić C#\Sustav za kriptiranje i dekriptiranje\obj\Debug\Sustav za kriptiranje i dekriptiranje.csproj.GenerateResource.cache
+C:\Users\Miroic\Desktop\Luka Miroić C#\Sustav za kriptiranje i dekriptiranje\obj\Debug\Sustav za kriptiranje i dekriptiranje.csproj.CoreCompileInputs.cache
+C:\Users\Miroic\Desktop\Luka Miroić C#\Sustav za kriptiranje i dekriptiranje\obj\Debug\Sustav za kriptiranje i dekriptiranje.exe
+C:\Users\Miroic\Desktop\Luka Miroić C#\Sustav za kriptiranje i dekriptiranje\obj\Debug\Sustav za kriptiranje i dekriptiranje.pdb
